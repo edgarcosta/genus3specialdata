@@ -5,6 +5,8 @@
  
 * Saint-Germain @ 48 last 200 up to 2^16
 
+* Legendre @ 32 300-400 up to 2^16
+
 # hash eg:
 
 ```
