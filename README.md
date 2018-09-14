@@ -7,7 +7,9 @@
 
 * Legendre @ 32 300-450 up to 2^16
 
-# hash eg:
+* Baskerville-2: 288 -300, 408-450, 546-608
+
+# hash:
 
 ```
 def get_filename(disc, fh):
